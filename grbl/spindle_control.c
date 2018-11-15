@@ -23,8 +23,8 @@
 
 static float pwm_gradient;
 
-#define PEN_SERVO_DOWN     16      
-#define PEN_SERVO_UP      31  
+#define PEN_SERVO_DOWN     31      
+#define PEN_SERVO_UP       20  
 
 void spindle_init()
 {
